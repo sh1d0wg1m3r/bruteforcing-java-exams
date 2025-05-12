@@ -49,6 +49,7 @@ Each generated question includes:
 - An explanation of the approach used
 
 All questions incorporate key Java concepts like collections, exception handling, user input, and control flow - the stuff that shows up on exams.
+And 1000 iterations of that ( will add more as I plan to hit 10k ) 
 
 ## Setting It Up
 
